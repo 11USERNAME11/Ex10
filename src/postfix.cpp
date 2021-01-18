@@ -58,7 +58,7 @@ std::string infix2postfix(std::string infix) {
     res += outputList[i];
     res += " ";
   }
-  return res;
+  return res.substr(0, res.size()-1);
 }
 
 bool parseSymbol(const std::string &symbol) {
