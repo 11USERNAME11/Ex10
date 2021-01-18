@@ -1,7 +1,7 @@
 // Copyright 2020 GHA Test Team
 #include <gtest/gtest.h>
 #include <string>
-#include "postfix.h"
+#include "../include/postfix.h"
 
 TEST(PostfixTest, test1) {
   std::string inf = "2 + 2";
