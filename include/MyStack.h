@@ -1,4 +1,4 @@
-// Copyright 2020 A.SHT
+// Copyright 2020 Mikhail Bogomazov
 #ifndef INCLUDE_MYSTACK_H_
 #define INCLUDE_MYSTACK_H_
 
